@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: Lucky 13 Party
+wordpress_id: 139
+wordpress_url: http://topstartup.com/2007/07/16/lucky-13-party/
+---
+<img src="http://topstartup.com/wp-content/uploads/2007/07/lucky13.thumbnail.png" title="Lucky 13 Party" alt="Lucky 13 Party" align="left" />The BetaHouse (that's what the co-working loft is called now) had a party for Friday the 13th of July. We think 13 is a pretty lucky number. You can <a href="http://flickr.com/photos/hybernaut/sets/72157600854187194/detail/">check out the pics on flickr</a>.

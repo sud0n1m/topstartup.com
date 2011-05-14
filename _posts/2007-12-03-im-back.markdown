@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Im back.
+wordpress_id: 247
+wordpress_url: http://topstartup.com/2007/12/03/im-back/
+---
+Im back from Argentina. The trip was fantastic. If you didn't follow along at <a href="http://colin.nederkoorn.co.uk">colin.nederkoorn.co.uk</a>, you can check it out for my iPhone pics. Im uploading the pictures to flickr and collecting my thoughts. There will be an article on the good, bad and ugly of Argentina very soon.
+
+While I was gone, it seems like the big news was all about Facebook's Beacon. It seems like the bad press is in full swing at <a href="http://www.nytimes.com/2007/12/03/technology/03facebook.html?_r=1&ref=business&oref=slogin">zuckerberg</a> and <a href="http://news.google.com/news?&q=beacon">facebook</a>. If curious you can always dig in to <a href="http://www.02138mag.com/magazine/article/1764.html">Mark Zuckerberg's private life</a>.
